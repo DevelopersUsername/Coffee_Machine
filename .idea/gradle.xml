@@ -12,7 +12,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Problems/Danger levels" />
+            <option value="$PROJECT_DIR$/Problems/Days of week" />
             <option value="$PROJECT_DIR$/Problems/Generate random numbers" />
+            <option value="$PROJECT_DIR$/Problems/The secret enumeration" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
